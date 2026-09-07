@@ -8,4 +8,4 @@ pandas
 numpy
 scikit-learn
 joblib
-python-donenv
+python-dotenv
